@@ -1,6 +1,6 @@
 # React + Vite
 
-A digital clock with a random cat background, updating every 30 seconds. Users can toggle between 12-hour and 24-hour time formats. Built with React and Vite, styled with custom CSS.
+A digital clock with a random cat background, updating every minute. Users can toggle between 12-hour and 24-hour time formats. Built with React and Vite, styled with custom CSS.
 
 ## Finished Product:
 <p align="center">

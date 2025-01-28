@@ -4,7 +4,7 @@ A digital clock with a random cat background, updating every 30 seconds. Users c
 
 ## Finished Product:
 <p align="center">
-  <img src="./github_image/cat_clock.jpg" alt="Cat Clock" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="./github_image/cat_clock.jpg" alt="Cat Clock">
 </p>
 
 ## Source:

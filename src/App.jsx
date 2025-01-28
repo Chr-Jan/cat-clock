@@ -8,8 +8,10 @@ function App() {
   return (
     <main>
       <div className="clock-rim">
+        <div className='clock-inner'>
         <CatBackground />
         <DigitalClock />
+        </div>
       </div>
     </main>
   );

@@ -9,4 +9,6 @@ A digital clock with a random cat background, updating every 30 seconds. Users c
 
 ## Source:
 <p align="center">API for cat images:</p>
-<a href="www.cataas.com" taget="_blank" style="display: block; text-align: center; margin: 0 auto;">Cataas</a>
+<p align="center">
+  <a href="https://www.cataas.com" target="_blank">Cataas</a>
+</p>

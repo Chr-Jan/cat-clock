@@ -10,5 +10,5 @@ A digital clock with a random cat background, updating every minute. Users can t
 ## Source:
 <p align="center">API for cat images:</p>
 <p align="center">
-  <a href="https://www.cataas.com" target="_blank">Cataas</a>
+  <a href="www.cataas.com" target="_blank">www.cataas.com</a>
 </p>

@@ -10,7 +10,7 @@ A digital clock with a random cat background, updating every minute. Built with 
 ## Source:
 <p align="center">API for cat images:</p>
 <p align="center">
-  <a href="https://www.cataas.com">cataas.com</a>(https://cataas.com)
+  <a href="[https://www.cataas.com](https://cataas.com)">cataas.com</a>(https://cataas.com)
 </p>
 <p align="center">vite.dev</P>
 <p align="center">

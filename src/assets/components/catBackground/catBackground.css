@@ -1,0 +1,12 @@
+.cat-background {
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    background-size: cover;
+    background-position: center;
+  }
